@@ -2,8 +2,7 @@
 Wrote a program that collects tweets with given keyword/ hashtag, processes them and maps the hashtags, user_name on map based on their given location.
 
 
-**Go through the "Twee-Hash Main.ipynb" code file as it contains most of code documentation in form of comments. 
-**
+**Go through the "Twee-Hash Main.ipynb" code file as it contains most of code documentation in form of comments.**
 To test it out, you will need a Twitter Dev Account(Free to register) and python.
 
 Download the project.
